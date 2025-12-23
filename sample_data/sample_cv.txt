@@ -1,0 +1,26 @@
+Name: John Doe
+Role: Backend Engineer
+
+Summary:
+Backend engineer with 4 years of experience building REST APIs and data-driven systems.
+Experienced in Python and JavaScript with a strong focus on clean code and maintainable architecture.
+
+Technical Skills:
+- Python, JavaScript
+- REST API design
+- SQL databases (PostgreSQL, MySQL)
+- Basic cloud deployment (Docker, AWS EC2)
+- Familiarity with asynchronous processing concepts
+
+Work Experience:
+Backend Engineer – XYZ Tech (2020–Present)
+- Designed and maintained backend services for internal applications.
+- Built RESTful APIs consumed by frontend and mobile clients.
+- Improved system reliability by adding basic error handling and logging.
+
+Projects:
+- Developed a simple job application screening tool that parses CV data and stores evaluation results.
+- Built a small internal dashboard for monitoring backend service health.
+
+Additional Notes:
+Strong interest in learning system design and scalable backend architectures.

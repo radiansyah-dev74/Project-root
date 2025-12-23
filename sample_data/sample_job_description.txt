@@ -1,0 +1,18 @@
+Job Title: Backend Engineer
+
+Responsibilities:
+- Design and implement backend services and APIs.
+- Work with databases to store and retrieve application data.
+- Collaborate with cross-functional teams to define system requirements.
+- Ensure system reliability and maintainability.
+
+Requirements:
+- 3+ years of backend development experience.
+- Proficiency in Python or similar backend language.
+- Experience designing RESTful APIs.
+- Understanding of basic system design principles.
+- Familiarity with cloud environments is a plus.
+
+Nice to Have:
+- Exposure to AI-assisted systems.
+- Experience handling background jobs or asynchronous workflows.

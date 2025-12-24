@@ -1,0 +1,29 @@
+JOB DESCRIPTION
+
+Position:
+Backend Engineer
+
+Responsibilities:
+- Design and implement backend services
+- Build scalable REST APIs
+- Implement asynchronous processing for long-running tasks
+- Collaborate with AI and data teams
+- Ensure system reliability and clean architecture
+
+Requirements:
+- Strong experience with Python
+- Experience building REST APIs
+- Understanding of asynchronous job processing
+- Familiarity with system design concepts
+- Experience with backend frameworks (FastAPI preferred)
+
+Nice to Have:
+- Experience integrating AI systems
+- Knowledge of document processing (PDF, text extraction)
+- Familiarity with background workers
+
+Evaluation Focus:
+- Backend architecture understanding
+- API design quality
+- Asynchronous system design
+- Code clarity and maintainability

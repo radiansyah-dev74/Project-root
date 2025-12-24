@@ -1,0 +1,37 @@
+CURRICULUM VITAE
+
+Name:
+John Doe
+
+Role:
+Backend Engineer
+
+Summary:
+Backend engineer with strong experience in Python and API development.
+Experienced in building scalable backend services and asynchronous systems.
+
+Technical Skills:
+- Python (FastAPI, Flask)
+- REST API Design
+- Asynchronous Processing
+- Background Jobs
+- Basic System Design
+- SQL & Data Modeling
+
+Work Experience:
+Backend Engineer | Fintech Startup
+- Designed REST APIs for internal services
+- Implemented async job processing for heavy tasks
+- Worked with background workers and task queues
+- Collaborated with frontend and data teams
+
+Projects:
+- CV Screening Backend Prototype
+- Async job-based evaluation service
+- API-first architecture using FastAPI
+
+Education:
+Bachelor Degree in Computer Science
+
+Notes:
+Interested in learning AI system integration and large-scale distributed systems.

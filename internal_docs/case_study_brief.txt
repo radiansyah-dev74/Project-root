@@ -1,0 +1,35 @@
+CASE STUDY BRIEF: AI SCREENING SYSTEM
+
+OBJECTIVE:
+Build a backend service that automates initial screening of job applications.
+
+REQUIREMENTS:
+
+1. SYSTEM ARCHITECTURE:
+   - Must use FastAPI or similar backend framework
+   - Implement async job processing
+   - Use vector database for document retrieval
+   - Integrate with LLM service (OpenAI/Gemini/OpenRouter)
+
+2. EVALUATION PIPELINE:
+   - CV Evaluation: Compare candidate CV against Job Description
+   - Project Report Evaluation: Evaluate candidate's project report against this case study brief
+   - Final Synthesis: Combine both evaluations into overall summary
+
+3. API ENDPOINTS:
+   - POST /upload: Accept CV and Project Report PDFs
+   - POST /evaluate: Trigger evaluation pipeline
+   - GET /result/{id}: Check evaluation status and results
+
+4. TECHNICAL REQUIREMENTS:
+   - Implement RAG (Retrieval Augmented Generation)
+   - Use prompt engineering for consistent evaluations
+   - Handle edge cases and errors gracefully
+   - Provide clear documentation
+
+EVALUATION CRITERIA:
+- Correctness of implementation
+- Code quality and modularity
+- Error handling and resilience
+- Documentation clarity
+- Creativity in solution

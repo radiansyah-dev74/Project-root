@@ -1,0 +1,38 @@
+CV SCORING RUBRIC
+
+EVALUATE CANDIDATE CV BASED ON THESE 4 PARAMETERS:
+
+1. TECHNICAL SKILLS MATCH (Weight: 40%)
+   Score 1-5 based on alignment with required technical skills:
+   - Backend frameworks (FastAPI, Django, etc.)
+   - Database knowledge
+   - API design experience
+   - Cloud platform familiarity
+   - AI/LLM exposure and experience
+   - Vector database knowledge
+
+2. EXPERIENCE LEVEL (Weight: 30%)
+   Score 1-5 based on:
+   - Years of relevant experience
+   - Project complexity handled
+   - Team size and role in previous positions
+   - Industry relevance
+
+3. RELEVANT ACHIEVEMENTS (Weight: 20%)
+   Score 1-5 based on:
+   - Impact of previous work (scale, users affected)
+   - Technical innovations implemented
+   - Problem-solving achievements
+   - Quantifiable results delivered
+
+4. CULTURAL FIT (Weight: 10%)
+   Score 1-5 based on:
+   - Communication skills demonstrated
+   - Learning attitude and adaptability
+   - Team collaboration experience
+   - Alignment with company values
+
+CALCULATION:
+- Each parameter scored 1-5
+- Weighted average → convert to match rate (0-1 scale)
+- Provide specific feedback for each parameter

@@ -1,0 +1,43 @@
+PROJECT SCORING RUBRIC
+
+EVALUATE PROJECT REPORT BASED ON THESE 5 PARAMETERS (Score 1-5 each):
+
+1. CORRECTNESS (Weight: 30%)
+   - Meets all specified requirements
+   - Proper implementation of prompt design
+   - Correct LLM chaining approach
+   - Accurate RAG implementation
+   - Proper error handling implementation
+
+2. CODE QUALITY (Weight: 25%)
+   - Clean, readable code structure
+   - Modular design and separation of concerns
+   - Proper error handling
+   - Testable code structure
+   - Follows best practices
+
+3. RESILIENCE (Weight: 20%)
+   - Handles failures gracefully
+   - Implements retry mechanisms
+   - Manages rate limits appropriately
+   - Has fallback strategies
+   - Robust error handling
+
+4. DOCUMENTATION (Weight: 15%)
+   - Clear README with setup instructions
+   - Explanation of design choices
+   - API documentation
+   - Trade-offs discussion
+   - Future improvements outlined
+
+5. CREATIVITY / BONUS (Weight: 10%)
+   - Innovative approaches beyond requirements
+   - Additional features (authentication, monitoring, etc.)
+   - Optimization techniques
+   - Scalability considerations
+   - Deployment strategies
+
+CALCULATION:
+- Each parameter scored 1-5
+- Weighted average → final project score (1-5 scale)
+- Provide specific feedback for each parameter

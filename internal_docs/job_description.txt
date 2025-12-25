@@ -1,0 +1,30 @@
+JOB DESCRIPTION: BACKEND DEVELOPER
+
+Position: Senior Backend Developer
+Location: Remote
+
+TECHNICAL REQUIREMENTS:
+- Strong experience with Python and FastAPI
+- Proficient in designing RESTful APIs
+- Experience with vector databases (ChromaDB, Qdrant)
+- Knowledge of RAG (Retrieval Augmented Generation) systems
+- Familiarity with LLM integration (OpenAI, OpenRouter)
+- Experience with async job processing and background workers
+- Knowledge of Docker and containerization
+
+SOFT SKILLS:
+- Good communication skills
+- Ability to work in a team
+- Fast learner and adaptable
+- Problem-solving mindset
+
+EXPERIENCE:
+- 3+ years of backend development experience
+- Experience with AI/ML workflows is a plus
+- Previous work on evaluation systems is desirable
+
+BENEFITS:
+- Competitive salary
+- Flexible working hours
+- Health insurance
+- Remote work options
